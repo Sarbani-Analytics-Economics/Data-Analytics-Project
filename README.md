@@ -1,2 +1,2 @@
 # Data-Analytics-Project
-This repository contains various data analytics project using R
+This repository contains various data analytics project.
